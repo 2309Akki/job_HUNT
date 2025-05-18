@@ -127,7 +127,7 @@ const Signup = () => {
           <div>
             <RadioGroup
               defaultValue="comfortable"
-              className="flex items-center gap-4 my-5"
+              className="flex items-center flex-row gap-4 my-5"
             >
               <div className="flex items-center space-x-2">
                 {/* <RadioGroupItem value="default" id="r1" /> */}
